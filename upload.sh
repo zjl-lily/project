@@ -2,7 +2,7 @@
 # Author: hxsl
 # Created Time: 2022年01月20日 星期四 10时07分45秒
 
-$branch=$1
+$branch=$0
 
 git add ./
 echo "git add ./"
