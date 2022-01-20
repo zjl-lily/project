@@ -17,8 +17,7 @@ printf("nroot");
 // new test
 // test chechin
 // test diff
-// test upload.sh
-//
+// test upload
 
 
 return 0 ;

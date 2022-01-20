@@ -8,5 +8,5 @@ git add ./
 echo "git add ./"
 git commit -m "commit file"
 echo "git commit -m  commit file"
-#git push origin $branch
+git push origin $branch
 echo "git push origin $branch"
