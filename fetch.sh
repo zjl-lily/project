@@ -5,7 +5,8 @@
 
 branch=$1
 echo "branch = $branch"
-git branch $branch
-git checkout
+#git branch $branch
+git checkout $branch
+echo "git checkout $branch"
 
 

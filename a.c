@@ -10,14 +10,10 @@
 
 int main(){
 printf("nroot");
-
-// add by dev branch
-// git checkout dev
-// test branch
-// new test
-// test chechin
-// test diff
-// test upload
+// modify by master branch
+// test master branch
+// commit by origin master
+//
 
 
 return 0 ;
